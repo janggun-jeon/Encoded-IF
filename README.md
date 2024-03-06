@@ -10,16 +10,13 @@ Journal of Institute of Control, Robotics and Systems (2024) 30(3)
 ISSN:1976-5622       
 eISSN:2233-4335
 
-
-
-
 ## Usage
 
 ### SWaT data processing
 1. Run `unzip /SWaT/data/SWaT.zip` to unzip the datasets      
 or      
-2. Run `python utils/gdrivedl.py https://drive.google.com/open?id=1rVJ5ry5GG-ZZi5yI4x9lICB8VhErXwCw data/SWaT`      
-   Run `python utils/gdrivedl.py https://drive.google.com/open?id=1iDYc0OEmidN712fquOBRFjln90SbpaE7 data/SWaT`
+2. Run `python /SWaT/utils/gdrivedl.py https://drive.google.com/open?id=1rVJ5ry5GG-ZZi5yI4x9lICB8VhErXwCw data/SWaT`      
+   Run `python /SWaT/utils/gdrivedl.py https://drive.google.com/open?id=1iDYc0OEmidN712fquOBRFjln90SbpaE7 data/SWaT`
 
 ### Traing & Evaluation
 #### SMD datasets
