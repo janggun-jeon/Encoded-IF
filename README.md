@@ -13,11 +13,13 @@ eISSN:2233-4335
 ## Usage
 
 ### SWaT data processing
-1. Run `unzip /SWaT/data/SWaT.zip` to unzip the datasets      
+1. Run `unzip ./SWaT/data/SWaT.zip` to unzip the datasets      
 or      
-2. Run `cd /SWaT` 
-   Run `python /utils/gdrivedl.py https://drive.google.com/open?id=1rVJ5ry5GG-ZZi5yI4x9lICB8VhErXwCw data/SWaT`      
-   Run `python /utils/gdrivedl.py https://drive.google.com/open?id=1iDYc0OEmidN712fquOBRFjln90SbpaE7 data/SWaT`
+2. Run `cd ./SWaT/utils`     
+   Run `python gdrivedl.py https://drive.google.com/open?id=1rVJ5ry5GG-ZZi5yI4x9lICB8VhErXwCw ./SWaT`      
+   Run `python gdrivedl.py https://drive.google.com/open?id=1iDYc0OEmidN712fquOBRFjln90SbpaE7 ./SWaT`      
+   Run `mkdir -p ./../data`      
+   Run `mv ./SWaT ./../data/SWaT`     
 
 ### Traing & Evaluation
 #### SMD datasets
