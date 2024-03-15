@@ -4,7 +4,7 @@ Unsupervised Machine Learning in Industrial Information Systems
 at Multivariate Time Series Environment
 
 ![image](https://github.com/janggun-jeon/Encoded-IF/assets/96774001/9fa5f6c4-0b1c-4805-bd12-a89ef82d1ad6)      
-https://doi.org/10.5302/J.ICROS.2024.23.0200
+[https://doi.org/10.5302/J.ICROS.2024.23.0200](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11724351)
 
 Journal of Institute of Control, Robotics and Systems (2024) 30(3)      
 ISSN:1976-5622       
