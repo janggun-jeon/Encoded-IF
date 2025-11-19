@@ -6,7 +6,7 @@ at Multivariate Time Series Environment
 ![image](https://github.com/janggun-jeon/Encoded-IF/assets/96774001/9fa5f6c4-0b1c-4805-bd12-a89ef82d1ad6)      
 [https://doi.org/10.5302/J.ICROS.2024.23.0200](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11724351)
 
-Journal of Institute of Control, Robotics and Systems (2024) 30(3)      
+Journal of Institute of Control, Robotics and Systems 2024, 30(3), 245-252      
 ISSN:1976-5622       
 eISSN:2233-4335
 
@@ -69,7 +69,7 @@ If you use our code, please cite the paper below:
   journal={제어로봇시스템학회 논문지},
   volume={30},
   number={3},
-  pages={245--252},
+  pages={245-252},
   year={2024},
   publisher={제어로봇시스템학회}
 }
