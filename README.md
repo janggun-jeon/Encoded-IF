@@ -58,3 +58,19 @@ python main.py --dataset SMD
 |SMAP|135,183|427,617|25|
 |MSL|58,317|73,729|55|
 |SMD|708,405|708,420|28*28|
+
+
+## Citation
+If you use our code, please cite the paper below:
+```bibtex
+@article{전장군2025다변량,
+  title={다변량 시계열 환경의 산업 정보 시스템에서 해석 가능한 비지도 기계학습을 통한 이상 탐지 개선 방법},
+  author={전장군 and 김남기},
+  journal={제어로봇시스템학회 논문지},
+  volume={30},
+  number={3},
+  pages={245--252},
+  year={2024},
+  publisher={제어로봇시스템학회}
+}
+```
